@@ -1,0 +1,48 @@
+G-quad,total G-score,Gene,Average G-score,Size,Species
+3,42,1,14,1664,Chlamydia Phage 4
+0,0,2,0,98,Chlamydia Phage 4
+0,0,3,0,158,Chlamydia Phage 4
+0,0,4,0,560,Chlamydia Phage 4
+0,0,5,0,446,Chlamydia Phage 4
+1,16,6,16,119,Chlamydia Phage 4
+2,37,7,19,947,Chlamydia Phage 4
+0,0,8,0,254,Chlamydia Phage 4
+4,55,1,14,1800,Flu-A
+4,55,4,14,1800,Flu-A
+4,55,14,14,1700,Flu-A
+15,331,9,0,21289,SARS-COVID
+5,63,22,13,3821,SARS-COVID
+1,8,10,8,827,SARS-COVID
+0,0,17,0,227,SARS-COVID
+1,7,23,7,668,SARS-COVID
+0,0,3,0,185,SARS-COVID
+0,0,2,0,365,SARS-COVID
+0,0,2,0,131,SARS-COVID
+0,0,6,0,365,SARS-COVID
+3,41,24,14,1259,SARS-COVID
+0,0,11,0,116,SARS-COVID
+5,60,12,12,1484,Coliphage ID62
+1,11,13,11,353,Coliphage ID62
+1,12,15,12,161,Coliphage ID62
+0,0,14,0,206,Coliphage ID62
+0,0,16,0,458,Coliphage ID62
+0,0,17,0,230,Coliphage ID62
+1,11,18,11,74,Coliphage ID62
+2,23,19,12,1283,Coliphage ID62
+0,0,20,0,545,Coliphage ID62
+4,62,21,16,977,Coliphage ID62
+7,81,25,12,1657,Swine Flu
+9,120,1,13,1997,Swine Flu
+4,59,4,15,1237,Swine Flu
+9,133,14,15,1662,Swine Flu
+5,92,5,18,517,Swine Flu
+6,81,25,14,1010,Swine Flu
+3,28,26,9,595,Swine Flu
+12,196,4,16,1926,Bird flu
+7,91,1,13,2045,Bird flu
+7,120,27,17,1959,Bird flu
+5,85,14,17,1149,Bird flu
+8,119,25,15,1298,Bird flu
+9,141,28,16,1268,Bird flu
+5,84,29,17,529,Bird flu
+3,45,30,15,387,Bird flu
